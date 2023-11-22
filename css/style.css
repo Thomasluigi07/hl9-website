@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Trebuchet MS';
+    src: url('font.ttf');
+}
+
+html {
+    background: url('../img/background.jpg');
+}
+
+* {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Grande', 'Helvetica', 'Tahoma', Arial, sans-serif;
+}
+
+.logo {
+    width: 285px;
+}
