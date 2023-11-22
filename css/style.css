@@ -12,6 +12,10 @@ html {
     font-family: 'Trebuchet MS', 'Lucida Grande', 'Helvetica', 'Tahoma', Arial, sans-serif;
 }
 
+a {
+    color: #ffcc00;
+}
+
 .logo {
     width: 285px;
 }
