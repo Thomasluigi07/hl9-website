@@ -4,7 +4,7 @@
 }
 
 html {
-    background: url('../img/background.jpg');
+    background: url('../img/navback.jpg');
 }
 
 * {
@@ -15,6 +15,11 @@ html {
 
 a {
     color: #ffcc00;
+    text-decoration: none;
+}
+
+td {
+    text-align: right;
 }
 
 .logo {
