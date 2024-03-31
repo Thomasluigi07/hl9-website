@@ -14,14 +14,14 @@ html {
 }
 
 a {
-    color: #ffcc00;
+    color: #c9a20a;
     text-decoration: none;
+}
+
+a:hover {
+    color: #ffff00;
 }
 
 td {
     text-align: right;
-}
-
-.logo {
-    width: 285px;
 }
